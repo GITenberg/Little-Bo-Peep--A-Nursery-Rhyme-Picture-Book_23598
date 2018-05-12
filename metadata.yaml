@@ -1,0 +1,29 @@
+_repo: Little-Bo-Peep--A-Nursery-Rhyme-Picture-Book_23598
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23598-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Brooke, L. Leslie (Leonard Leslie)
+    aliases:
+    - Brooke, Leslie
+    - Brooke, Leonard Leslie
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '3547'
+    url: http://www.gutenberg.org/2009/agents/3547
+description: ''
+gutenberg_issued: '2007-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes'
+- !lcc 'PZ'
+title: 'Little Bo-Peep: A Nursery Rhyme Picture Book'
+url: http://www.gutenberg.org/ebooks/23598
