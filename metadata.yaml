@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '3547'
     url: http://www.gutenberg.org/2009/agents/3547
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23598#Little-Bo-Peep--A-Nursery-Rhyme-Picture-Book
 gutenberg_issued: '2007-11-23'
 gutenberg_type: Text
 identifiers:
